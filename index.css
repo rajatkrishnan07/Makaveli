@@ -11,7 +11,7 @@
     background-position: top;
     opacity: 5.0;
     display: flex;
-    min-height: 450px;
+    min-height: 475px;
     text-align: center;
     font-size: 65px;
     font-style: bold;
@@ -19,7 +19,7 @@
     font-family: 'Rowdies', cursive;
     padding-left: 30px;
     align-items: center;
-    padding-left: 550px;
+    padding-left: 530px;
 }
 
 .navbar{
