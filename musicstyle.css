@@ -46,6 +46,11 @@ nav ul li a {
     color: white;
 }
 
+nav ul li a {
+    text-decoration: none;
+    color: red;
+}
+
 .mainContent{
     padding: 90px;
     background-color: black;
