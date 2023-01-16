@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
 *{
     padding: 0;
@@ -7,18 +7,18 @@
 
 .main{
     background-image: url("https://wallpaperboat.com/wp-content/uploads/2020/06/08/44264/2pac-14.jpg");
-    background-size: 27em;
+    background-size: 21em;
     background-position: top;
     display: flex;
     min-height: 475px;
     text-align: center;
-    font-size: 70px;
+    font-size: 85px;
     font-style: bold;
     color: white;
-    font-family: 'Rowdies', cursive;
+    font-family: 'Satisfy', cursive;
     padding-left: 30px;
     align-items: center;
-    padding-left: 510px;
+    padding-left: 515px;
 }
 
 .navbar{
