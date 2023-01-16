@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
 *{
     padding: 0;
@@ -7,19 +7,18 @@
 
 .main{
     background-image: url("https://ic.c4assets.com/brands/who-killed-tupac/9737855e-ae1b-44d6-acdd-b13fa2642e00.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}");
-    background-size: 27em;
+    background-size: 21em;
     background-position: top;
-    opacity: 5.0;
     display: flex;
     min-height: 475px;
     text-align: center;
-    font-size: 70px;
+    font-size: 90px;
     font-style: bold;
     color: white;
-    font-family: 'Rowdies', cursive;
+    font-family: 'Satisfy', cursive;
     padding-left: 30px;
     align-items: center;
-    padding-left: 530px;
+    padding-left: 535px;
 }
 
 .navbar{
