@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
 *{
     padding: 0;
@@ -7,19 +7,18 @@
 
 .main{
     background-image: url("https://w0.peakpx.com/wallpaper/310/262/HD-wallpaper-2pac-tupac-shakur-white-glitter-art-black-background-american-rapper-2pac-art-lesane-parish-crooks-tupac-shakur-art-makaveli.jpg");
-    background-size: 15em;
+    background-size: 11em;
     background-position: top;
-    opacity: 5.0;
     display: flex;
     min-height: 475px;
     text-align: center;
-    font-size: 70px;
+    font-size: 85px;
     font-style: bold;
     color: white;
-    font-family: 'Rowdies', cursive;
+    font-family: 'Satisfy', cursive;
     padding-left: 30px;
     align-items: center;
-    padding-left: 520px;
+    padding-left: 525px;
 }
 
 .navbar{
