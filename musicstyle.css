@@ -7,20 +7,19 @@
 
 .main{
     background-image: url("https://www.teahub.io/photos/full/154-1541599_tupac-all-eyez-on-me.jpg");
-    background-size: 20em;
+    background-size: 18.5em;
     background-position: top;
-    opacity: 5.0;
     display: flex;
     min-height: 475px;
     text-align: center;
-    font-family: 'Rowdies', cursive;
-    font-size: 70px;
+    font-family: 'Satisfy', cursive;
+    font-size: 85px;
     font-style: bold;
     color: white;
     font-family:
     padding-left: 30px;
     align-items: center;
-    padding-left: 530px;
+    padding-left: 520px;
 }
 
 .navbar{
